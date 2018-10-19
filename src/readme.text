@@ -1,0 +1,13 @@
+echo "# ng-pwa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/malek-itani/ng-pwa.git
+git push -u origin master
+
+git add .
+git commit -am "New Commit!"
+git push origin master
+
+https://github.com/malek-itani/ng-pwa.git
+git@github.com:malek-itani/ng-pwa.git
